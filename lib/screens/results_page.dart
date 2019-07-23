@@ -15,7 +15,7 @@ class ResultsPage extends StatelessWidget {
         children: <Widget>[
           Container(
             child: Text(
-              'You Result',
+              'Your Result',
               style: kTitleTextStyle,
             ),
           ),

@@ -44,6 +44,5 @@ final kResultNumberTextStyle = TextStyle(
 );
 
 final kResultExplanationTextStyle = TextStyle(
-  fontSize: 25,
-  fontWeight: FontWeight.w100,
+  fontSize: 22.0,
 );
