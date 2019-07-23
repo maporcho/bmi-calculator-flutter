@@ -21,3 +21,29 @@ final kNumberTextStyle = TextStyle(
   fontSize: 50,
   fontWeight: FontWeight.w900,
 );
+
+final kLargeButtonTextStyle = TextStyle(
+  fontSize: 25,
+  fontWeight: FontWeight.bold,
+);
+
+final kTitleTextStyle = TextStyle(
+  fontSize: 40,
+  fontWeight: FontWeight.bold,
+);
+
+final kResultClassificationTextStyle = TextStyle(
+  fontSize: 20,
+  fontWeight: FontWeight.bold,
+  color: Color(0xFF3CC579),
+);
+
+final kResultNumberTextStyle = TextStyle(
+  fontSize: 80,
+  fontWeight: FontWeight.w900,
+);
+
+final kResultExplanationTextStyle = TextStyle(
+  fontSize: 25,
+  fontWeight: FontWeight.w100,
+);
